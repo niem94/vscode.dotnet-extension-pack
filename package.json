@@ -1,0 +1,23 @@
+{
+    "name": "niem94.dotnet-extensions-pack",
+    "displayName": ".NET Extensions Pack",
+    "description": "A collection of my must-haves extensions for dotnet development in VSCode",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "derivitec-ltd.vscode-dotnet-adapter",
+        "hbenl.vscode-test-explorer",
+        "josefpihrt-vscode.roslynator",
+        "ms-dotnettools.csharp",
+        "ms-mssql.mssql",
+        "pflannery.vscode-versionlens",
+        "ryanluker.vscode-coverage-gutters",
+        "tintoy.msbuild-project-tools",
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}
