@@ -3,7 +3,11 @@
     "displayName": ".NET Extension Pack",
     "publisher": "niem94",
     "description": "A collection of my must-haves extensions for dotnet development in VSCode",
-    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/niem94/vscode.dotnet-extension-pack"
+    },
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.51.0"
     },
