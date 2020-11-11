@@ -8,6 +8,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Check here for upcoming changes.
 
+## [1.0.1] - 2020-11-11
+
+- Added Red Hat XML
+
 ## [1.0.0] - 2020-11-09
 
 - Initial release

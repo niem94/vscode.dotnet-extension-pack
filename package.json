@@ -23,6 +23,7 @@
         "pflannery.vscode-versionlens",
         "ryanluker.vscode-coverage-gutters",
         "tintoy.msbuild-project-tools",
-        "VisualStudioExptTeam.vscodeintellicode"
+        "VisualStudioExptTeam.vscodeintellicode",
+        "redhat.vscode-xml"
     ]
 }
