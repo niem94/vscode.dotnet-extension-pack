@@ -24,6 +24,7 @@
         "ryanluker.vscode-coverage-gutters",
         "tintoy.msbuild-project-tools",
         "VisualStudioExptTeam.vscodeintellicode",
-        "redhat.vscode-xml"
+        "redhat.vscode-xml",
+        "formulahendry.dotnet"
     ]
 }
