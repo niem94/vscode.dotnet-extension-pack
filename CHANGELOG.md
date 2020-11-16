@@ -4,6 +4,10 @@ All notable changes to the "dotnet-extensions-pack" extension pack will be docum
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.7] - 2020-11-16
+
+- Updated icon
+
 ## [1.0.4] - 2020-11-11
 
 - Added Red Hat YAML
