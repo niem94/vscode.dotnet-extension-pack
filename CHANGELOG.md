@@ -4,7 +4,11 @@ All notable changes to the "dotnet-extensions-pack" extension pack will be docum
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.0.9] - 2020-02-03
+## [1.0.10] - 2021-02-05
+
+- Added "NuGet Package Manager"
+
+## [1.0.9] - 2020-12-03
 
 - Added "C# Namespace Autocompletion"
 
