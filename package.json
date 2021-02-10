@@ -8,7 +8,7 @@
         "type": "git",
         "url": "https://github.com/niem94/vscode.dotnet-extension-pack"
     },
-    "version": "1.0.11",
+    "version": "1.0.12",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -29,6 +29,7 @@
         "redhat.vscode-yaml",
         "formulahendry.dotnet",
         "esbenp.prettier-vscode",
-        "jmrog.vscode-nuget-package-manager"
+        "jmrog.vscode-nuget-package-manager",
+        "fernandoescolar.vscode-solution-explorer"
     ]
 }
