@@ -4,7 +4,7 @@ All notable changes to the "dotnet-extensions-pack" extension pack are in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.0.2] - 2020-02-18
+## [1.1.0] - 2020-02-18
 
 - Removed Redhat XML and Redhat YML, as they are not essential to working with dotnet, and I like the extension to be lightweight.
 
