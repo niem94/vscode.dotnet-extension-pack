@@ -8,7 +8,7 @@
         "type": "git",
         "url": "https://github.com/niem94/vscode.dotnet-extension-pack"
     },
-    "version": "1.0.12",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -25,8 +25,6 @@
         "ryanluker.vscode-coverage-gutters",
         "tintoy.msbuild-project-tools",
         "VisualStudioExptTeam.vscodeintellicode",
-        "redhat.vscode-xml",
-        "redhat.vscode-yaml",
         "formulahendry.dotnet",
         "esbenp.prettier-vscode",
         "jmrog.vscode-nuget-package-manager",

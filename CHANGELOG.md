@@ -4,6 +4,10 @@ All notable changes to the "dotnet-extensions-pack" extension pack will be docum
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.2] - 2020-02-18
+
+- Removed Redhat XML and Redhat YML, as these are not needed for working with dotnet, and i like the extension to be lightweight.
+
 ## [1.0.12] - 2020-02-10
 
 - Added "vscode-solution-explorer"
