@@ -4,15 +4,16 @@ All notable changes to the "dotnet-extensions-pack" extension pack are in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.1.0] - 2020-02-18
+## [1.1.1] - 2021-02-18
 
 - Removed Redhat XML and Redhat YML, as they are not essential to working with dotnet, and I like the extension to be lightweight.
+- Updated dates in the changelog. I had written 2020 for changes in 2021.
 
-## [1.0.12] - 2020-02-10
+## [1.0.12] - 2021-02-10
 
 - Added "vscode-solution-explorer"
 
-## [1.0.11] - 2020-02-08
+## [1.0.11] - 2021-02-08
 
 - Removed "C# Namespace Autocompletion" (there is built-in functionality to refactor namespaces in the C# Extension)
 
