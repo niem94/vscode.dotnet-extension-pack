@@ -1,12 +1,12 @@
 # Change Log
 
-All notable changes to the "dotnet-extensions-pack" extension pack will be documented in this file.
+All notable changes to the "dotnet-extensions-pack" extension pack are in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [1.0.2] - 2020-02-18
 
-- Removed Redhat XML and Redhat YML, as these are not needed for working with dotnet, and i like the extension to be lightweight.
+- Removed Redhat XML and Redhat YML, as they are not essential to working with dotnet, and I like the extension to be lightweight.
 
 ## [1.0.12] - 2020-02-10
 
@@ -14,7 +14,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [1.0.11] - 2020-02-08
 
-- Removed "C# Namespace Autocompletion" (there is built in functionality to refactor namespaces in the C# Extension)
+- Removed "C# Namespace Autocompletion" (there is built-in functionality to refactor namespaces in the C# Extension)
 
 ## [1.0.10] - 2021-02-05
 
