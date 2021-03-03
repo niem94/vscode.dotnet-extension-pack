@@ -8,7 +8,7 @@
         "type": "git",
         "url": "https://github.com/niem94/vscode.dotnet-extension-pack"
     },
-    "version": "1.1.1",
+    "version": "1.1.2",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -16,8 +16,7 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "derivitec-ltd.vscode-dotnet-adapter",
-        "hbenl.vscode-test-explorer",
+        "formulahendry.dotnet-test-explorer",
         "josefpihrt-vscode.roslynator",
         "ms-dotnettools.csharp",
         "ms-mssql.mssql",

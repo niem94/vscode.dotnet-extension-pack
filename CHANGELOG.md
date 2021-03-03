@@ -4,6 +4,10 @@ All notable changes to the "dotnet-extensions-pack" extension pack are in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.1.2] - 2021-03-03
+
+- Removed old test explorer in favor of .NET Core Test Explorer by Jun Han, as the old one was not working very well in own projects.
+
 ## [1.1.1] - 2021-02-18
 
 - Removed Redhat XML and Redhat YML, as they are not essential to working with dotnet, and I like the extension to be lightweight.
