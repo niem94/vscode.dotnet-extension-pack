@@ -4,6 +4,10 @@ All notable changes to the "dotnet-extensions-pack" extension pack are in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.1.3] - 2021-03-22
+
+- Added XML Tools to allow for XML formatting in csproj files.
+
 ## [1.1.2] - 2021-03-03
 
 - Removed old test explorer in favor of .NET Core Test Explorer by Jun Han, as the old one was not working very well in own projects.
