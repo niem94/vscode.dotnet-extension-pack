@@ -4,6 +4,10 @@ All notable changes to the "dotnet-extensions-pack" extension pack are in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.1.4] - 2021-04-02
+
+- Removed IntelliCode as it does not work with C# code.
+
 ## [1.1.3] - 2021-03-22
 
 - Added XML Tools to allow for XML formatting in csproj files.
