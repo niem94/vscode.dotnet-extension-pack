@@ -4,6 +4,10 @@ All notable changes to the "dotnet-extensions-pack" extension pack are in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.1.5] - 2021-04-09
+
+- Removed "vscode-solution-explorer" as it conflicts with the paste action and thus is a huge annoyance.
+
 ## [1.1.4] - 2021-04-02
 
 - Removed IntelliCode as it does not work with C# code.
