@@ -8,7 +8,7 @@
         "type": "git",
         "url": "https://github.com/niem94/vscode.dotnet-extension-pack"
     },
-    "version": "1.1.5",
+    "version": "1.1.6",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -21,6 +21,7 @@
         "josefpihrt-vscode.roslynator",
         "ms-dotnettools.csharp",
         "ms-mssql.mssql",
+        "ms-dotnettools.blazorwasm-companion",
         "pflannery.vscode-versionlens",
         "ryanluker.vscode-coverage-gutters",
         "tintoy.msbuild-project-tools",

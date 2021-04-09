@@ -4,6 +4,10 @@ All notable changes to the "dotnet-extensions-pack" extension pack are in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.1.6] - 2021-04-09
+
+- Added "Microsoft.AspNetCore.Razor.VSCode.BlazorWasmDebuggingExtension" to improve Blazor Development
+
 ## [1.1.5] - 2021-04-09
 
 - Removed "vscode-solution-explorer" as it conflicts with the paste action and thus is a huge annoyance.
