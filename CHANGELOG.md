@@ -6,7 +6,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [1.1.7] - 2021-04-23
 
-- Added "C# Extensions" to be able to add Classes and Interfaces from the "right click" context menu.
+- Added "C# Extensions" to be able to add Classes and Interfaces from the "right click" context menu. 
 
 ## [1.1.6] - 2021-04-09
 
