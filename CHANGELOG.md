@@ -4,7 +4,7 @@ All notable changes to the "dotnet-extensions-pack" extension pack are in this f
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.1.7] - 2021-04-23
+## [1.1.8] - 2021-04-23
 
 - Added "C# Extensions" to be able to add Classes and Interfaces from the "right click" context menu. 
 
