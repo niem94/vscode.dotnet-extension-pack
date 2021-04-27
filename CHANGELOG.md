@@ -6,7 +6,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [1.1.9] - 2021-04-27
 
-- Changed database tooling from "SQL Server by Microsoft" to "SQLTools with MSQL Driver". "SQL Server by Microsoft" forces configuration in the global settings, which i do not like, as i want my db connections to be saved only to workspaces. ALso SQLTools seems like a much more capable tooling.
+- Changed database tooling from "SQL Server by Microsoft" to "SQLTools with MSQL Driver". "SQL Server by Microsoft" forces configuration in the global settings, which i do not like, as i want my db connections to be saved only to workspaces. Also SQLTools seems like a much more capable tooling.
 
 ## [1.1.8] - 2021-04-23
 
